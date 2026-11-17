@@ -22,7 +22,11 @@
 
 > 📌 **Note d'Esame:** Disponibile Bibbia_Programmazione_Algoritmica.pdf. Corso B (matricola dispari): scritto forte può agevolare l'orale; usare le dimostrazioni delle dispense ufficiali.
 
-> 💡 **Nota Corso B (Matricola Dispari):** Con uno scritto molto alto la Prof.ssa Pagli a volte alleggerisce/salta l'orale. Usa sempre le dimostrazioni ufficiali viste a lezione.
+---
+
+## 🗣️ Consigli, Domande d'Esame &amp; Lore (Chat Telegram)
+- Corso B (Matricola Dispari): con uno scritto molto alto a volte la Prof.ssa Pagli alleggerisce o fa saltare l'orale.
+- Usare sempre le dimostrazioni ufficiali viste sulle dispense del Corso B.
 
 ---
 
